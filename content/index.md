@@ -10,12 +10,14 @@ I'm Enya. I'm mostly using this to dump my thoughts and stories, but I will try 
 It's nice to meet you!
 
 - I'm an incoming freshmen at the University of Illinois Urbana-Champaign, majoring in CS+Linguistics.
-- I love to paint, eat yummy food, talk with friends, normal people stuff lol
-- I enjoy playing computer games in my free time, I mostly play league (currently plat 4), but I've played a bunch of osu (peak top 45k) too!
+- I love to paint, eat yummy food, play games, talk with friends, normal people stuff lol
 
-> For school stuff:   
+
+> For school stuff:  
+> Email: enya2@illinois.edu   
 > Linkedin: [Enya Chen](https://www.linkedin.com/in/enya-chen-245081246/)  
-> Email: enya2@illinois.edu  
+> Github: [3nya](https://github.com/3nya)
+
 
 > For casual stuff:  
 > Discord: 20oz  
