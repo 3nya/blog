@@ -1,25 +1,23 @@
 ---
-title: Home
+title: Home - it's so nice to see you!
 draft: false
 description: about me
 ---
 > she/her, 17
 
-I'm Enya. I'm mostly using this to dump my thoughts and stories, but I will try to add some of my school notes and projects from time to time so this seems more full and less random I guess...
+### About me! 
+I'm Enya. This is my personal website where I will be keeping my [[Projects|projects]], [[Notes|notes]], and [[Xyz|blogs of my life]]! On desktop, you can use the explorer on the left to navigate through files too.
 
-It's nice to meet you!
-
-- I'm an incoming freshmen at the University of Illinois Urbana-Champaign, majoring in CS+Linguistics.
+- I'm a freshman at the University of Illinois Urbana-Champaign, majoring in [[CSLing|Computer Science + Linguistics]] and looking to minor in Statistics.
 - I love to paint, eat yummy food, play games, talk with friends, normal people stuff lol
 
-
-> For school stuff:  
+> Contact me:  
 > Email: enya2@illinois.edu   
 > Linkedin: [Enya Chen](https://www.linkedin.com/in/enya-chen-245081246/)  
 > Github: [3nya](https://github.com/3nya)
 
 
-> For casual stuff:  
+> For friends:  
 > Discord: 20oz  
 > Instagram: [enyachen__](https://www.instagram.com/enyachen__)  
 

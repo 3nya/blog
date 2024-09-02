@@ -1,10 +1,13 @@
 ---
-title: My thoughts on community college
+title: ・My thoughts on community college
 date created: 2024-08-13
+tags: 
+    - life
+    - calculus
 ---
 
 ### Introduction
-I attended Nassau Community College in summer 2023, taking calculus 2 under professor Jay Martin. This would be the first college course I’ve ever taken.  
+I attended Nassau Community College in summer 2024, taking calculus 2 under professor Jay Martin. This would be the first college course I’ve ever taken.  
 
 I knew several classmates who took classes at NCC during high school. Wanting to be at the same level as my peers, I registered for the class pretty hastily. From the people I knew, I thought the classroom would be full of other high school students, wanting to show off by being in a college-level environment. After all, I had registered under the *High School Enrichment Program*, there would be other high schoolers here right? 
 
