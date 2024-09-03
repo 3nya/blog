@@ -3,7 +3,6 @@ title: ・My thoughts on community college
 date created: 2024-08-13
 tags: 
     - life
-    - calculus
 ---
 
 ### Introduction
