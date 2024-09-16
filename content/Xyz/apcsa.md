@@ -17,6 +17,5 @@ Be consistent! I'll do x amount of materials in y amount of days. I'll have unit
 ### Have the right materials
 Don't rely on someone who's taking the class to give you materials/resources throughout the year. Trust me they will get annoyed at you!! Find your own. Don't use test prep books if you're learning something for the first time and get a reliable textbook instead. Use the [official AP curriculum](https://apstudents.collegeboard.org/courses) to know which topics you'll need to learn. Evaluate your knowledge by doing official AP questions of the units/topics you've learned every now and then. Any test prep book will be good for that, but theres plenty of questions availible online.  
 
-### Opinions
-- I love barron's test prep books. The questions get a lot harder than actual AP questions though, if you manage to get a 5 on their practice exams you're kind of set. 
-- Princeton test reviews are alright. They're just ok. 
+### AP CSA specifically 
+I coded in Java for USACO before studying for AP CSA, but there was a lot of Object Oriented Programming things I wasn't familiar with. I only used the Barrons Prep Book for AP CSA when it came to studying. I really reccommend it. For some reason I would very often practice the FRQs on the computer rather than actually writing it down... like how it is on the exam... so make sure you practice that.
