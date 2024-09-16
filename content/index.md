@@ -18,7 +18,7 @@ I'm Enya. This is my personal website where I will be keeping my [[Projects|proj
 On desktop, you can use the explorer on the left or bottom (depends on your window size). On mobile, the explorer will be on the bottom of every page. You can also view the contents [[All Content|here]].
 
 ### About this site o*.
-This website is made with [Quartz](https://quartz.jzhao.xyz/) and Nodejs! It is deployed with GitHub Pages. I'm a big fan of Markdown note taking and Obsidian so this is really nice.  
+This website is made with Quartz and Nodejs! It is deployed with GitHub Pages. I'm a big fan of Markdown note taking and Obsidian so this is really nice.  
 
 > Contact me:  
 > Email: enya2@illinois.edu   
