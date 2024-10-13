@@ -12,9 +12,9 @@ I'm Enya. This is my personal website where I will be keeping my [[Projects|proj
 - I'm interested in ML and NLP. I'm currently in UIUC's CS Student Ambassador/Research Scholars (CS STARS) program, doing research with Professor Hao Peng.
 - I also enjoy competitive programming :)  
 
-> Languages: Java, Python, HTML, CSS, JavaScript, LaTeX.
-> Tools: Git/GitHub, VSCode, IntelliJ, Jupyter Notebook.
-> Currently learning: React Nextjs Typescript web development.
+> Languages: Java, Python, HTML, CSS, JavaScript, LaTeX.   
+> Tools: Git/GitHub, VSCode, IntelliJ, Jupyter Notebook.   
+> Currently learning: React Nextjs Typescript web development.   
 
 ### How to navigate this site *:⋆ₒ+
 On desktop, you can use the explorer on the left or bottom (depends on your window size). On mobile, the explorer will be on the bottom of every page. You can also view the contents [[All Content|here]].
