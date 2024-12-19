@@ -1,6 +1,7 @@
 ---
 title: ・Being an artist
 date created: 2024-11-23
+draft: true
 tags:
   - life
 ---

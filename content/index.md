@@ -3,7 +3,7 @@ title: Enya Chen *₊⊹˚
 draft: false
 description: about me
 ---
-std:cout << [[Projects|projects]] << [[Xyz|blogs]];
+std::cout << [[Projects|projects]] << [[Xyz|blogs]];
 ### About me ☆｡+*
 Hi I'm Enya!
 
