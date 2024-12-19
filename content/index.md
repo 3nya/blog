@@ -5,11 +5,13 @@ description: about me
 ---
 std:cout << [[Projects|projects]] << [[Xyz|blogs]];
 ### About me ☆｡+*
-Hi I'm Enya! This is my personal website where I will be keeping my , and some [[Xyz|blogs of my life]]!  *Update, the projects folder is not extremely up to date, please check out my [github](https://github.com/3nya).*
+Hi I'm Enya!
 
 - I'm a freshman at the University of Illinois Urbana-Champaign, majoring in [[CSLing|Computer Science + Linguistics]] and looking to minor in Mathematics and Statistics.
 - I'm interested in ML and NLP. I'm currently in UIUC's CS Student Ambassador/Research Scholars (CS STARS) program, doing research with Professor Hao Peng.
 - I also like [competitive programming](https://github.com/3nya/competitive-programming) :) I participated at the [2024 ICPC mid central regionals!](https://siebelschool.illinois.edu/news/ICPC-world-finals-2024)  
+
+*The projects folder is not extremely up to date, please check out my [github](https://github.com/3nya).*   
 
 > Languages: Java, Python, HTML, CSS, Tailwind, LaTeX.   
 > Tools: Git/GitHub, VSCode, IntelliJ, Jupyter Notebook.   
