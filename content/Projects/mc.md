@@ -26,3 +26,5 @@ After inputting an image and selecting the desired quality, the original image i
 It's pretty slow (O(n^2) runtime). Every snippet of pixels is accessed and compared to every single minecraft block. Pictures that are 500x500 px could take up to 5-7 minutes to fully process. My current solutions are to either implement a Median Cut Algorithm and cluster nearby similar colors together for faster runtime.  
 
 You can view this project [here](https://github.com/3nya/mc).
+
+*This project was an adaptation of another one of my uncompleted projects, [Beautiful Image Generator]().* 
