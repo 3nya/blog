@@ -27,7 +27,6 @@ This website is made with Quartz and Nodejs! It is deployed with GitHub Pages. I
 
 > Contact me:  
 > Email: enya2@illinois.edu   
-> Linkedin: [Enya Chen](https://www.linkedin.com/in/enya-chen-245081246/)  
 > Github: [3nya](https://github.com/3nya)  
 
 Last updated: 12/18/24. 
