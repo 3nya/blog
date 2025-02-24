@@ -6,7 +6,7 @@ date created: 2024-09-05
 ## Relevant coursework  
 
 ### Spring 2025
-- CS128 - Introduction to Computer Science II
+- CS128 - Introduction to Computer Science II + Honors
 - MATH314 - Introduction to Higher Mathematics
 - CS491 - Advanced Competitive Algorithm Programming
 - LING250 - Linguistic Diversity in the U.S
